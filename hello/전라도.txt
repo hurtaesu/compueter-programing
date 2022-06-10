@@ -1,0 +1,7 @@
+total infected : 1,199,048
+
+increase from the previous day : 652
+
+total death : 1,350
+
+infected rate : 6.58%

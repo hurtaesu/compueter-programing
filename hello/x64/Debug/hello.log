@@ -1,0 +1,4 @@
+﻿  hello.c
+C:\Users\hurta\source\repos\hello\hello.c(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\hurta\source\repos\hello\hello.c : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  hello.vcxproj -> C:\Users\hurta\source\repos\hello\x64\Debug\hello.exe
